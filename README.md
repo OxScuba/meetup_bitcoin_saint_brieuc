@@ -7,6 +7,7 @@ Un rendez-vous convivial et régulier pour échanger autour de **Bitcoin**, de l
 
 📍 Suivez-nous aussi sur X (Twitter) : [@StBrieucBitcoin](https://x.com/StBrieucBitcoin)
 
+![Logo](Images/logo_meetup_bitcoin_saint_brieuc.png)
 ---
 
 ## 💡 Objectif du Meetup
