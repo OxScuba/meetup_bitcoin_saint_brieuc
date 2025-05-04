@@ -1,3 +1,5 @@
+![HODL](Images/HODL.png)
+
 # 🟠 Meetup Bitcoin - Saint-Brieuc
 
 Bienvenue sur le dépôt GitHub officiel du **Meetup Bitcoin de Saint-Brieuc** (Côtes-d'Armor, Bretagne) 🇫🇷  
