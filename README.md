@@ -28,6 +28,8 @@ Ce dépôt contient toutes les ressources partagées pendant nos meetups :
 
 ---
 
+![Affiche](Images/Affiche_Meetup_Bitcoin_Briochin.png)
+
 ## 🗓 Événements passés et à venir
 
 | Date       | Thème                                       | Lien ressource             |
