@@ -34,8 +34,11 @@ Ce dépôt contient toutes les ressources partagées pendant nos meetups :
 
 | Date       | Thème                                       | Lien ressource             |
 |------------|---------------------------------------------|----------------------------|
-| 2024-04-18 | Introduction à Bitcoin                      | `/ressources/intro_bitcoin.pdf` |
-| 2024-05-16 | Comment acheter et sécuriser ses sats       | À venir                    |
+| 2025-01-08 | Bonne Année               |(https://x.com/StBrieucBitcoin/status/1877072908461228438) |
+| 2025-02-05 | Crypto Cartoon & Sauces Piquantes                |(https://x.com/StBrieucBitcoin/status/1887407988165447824) |
+| 2025-03-05 | Discussion libre                |(https://x.com/StBrieucBitcoin/status/1897231114605052262)  |
+| 2025-04-02 | Discussion libre                     | (https://x.com/StBrieucBitcoin/status/1907471359787299025) |
+| 2024-05-07 | Présentation Satoshi Index       | À venir                    |
 | ...        | (nouvelles dates à venir...)                |                            |
 
 ---
