@@ -38,8 +38,14 @@ Ce dépôt contient toutes les ressources partagées pendant nos meetups :
 | 2025-02-05 | Crypto Cartoon & Sauces Piquantes                |(https://x.com/StBrieucBitcoin/status/1887407988165447824) |
 | 2025-03-05 | Discussion libre                |(https://x.com/StBrieucBitcoin/status/1897231114605052262)  |
 | 2025-04-02 | Discussion libre                     | (https://x.com/StBrieucBitcoin/status/1907471359787299025) |
-| 2024-05-07 | Présentation Satoshi Index       | À venir                    |
-| ...        | (nouvelles dates à venir...)                |                            |
+| 2025-05-07 | Présentation Satoshi Index       | (https://x.com/StBrieucBitcoin/status/1920359524810076189)                    |
+| 2025-06-04 | Retour conférence BEF                |     (https://x.com/StBrieucBitcoin/status/1930178393569411394)                       |
+| 2025-07-02 | Discussion Libre                |      (https://x.com/StBrieucBitcoin/status/1940023754760880277)                      |
+| 2025-08-06 | Discussion Libre                |     (https://x.com/StBrieucBitcoin/status/1953111454275535157)                       |
+| 2025-09-04 | Présentation et Installation Projet sur ESP32                |       (https://x.com/StBrieucBitcoin/status/1962737107702612231)                     |
+| 2025-10-08 | Discussion Libre                |        (https://x.com/StBrieucBitcoin/status/1975894950576541929)                    |
+| 2025-11-05 | Discussion Libre                |        (https://x.com/StBrieucBitcoin/status/1986049217412878461)                    |
+| 2025-10-03 | (nouvelles dates à venir...)                |                           |
 
 ---
 
